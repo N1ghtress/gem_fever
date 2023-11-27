@@ -1,0 +1,4 @@
+(executable
+ (public_name gem_fever)
+ (name main)
+ (libraries GemFever))
